@@ -1,0 +1,43 @@
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "WordScrambleGame",
+            "request": "launch",
+            "mainClass": "WordScrambleGame",
+            "projectName": "WordScrambledGame_d95cd907"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "ProjectWtf_81ed6028"
+        },
+        {
+            "type": "java",
+            "name": "WordScrambleGame",
+            "request": "launch",
+            "mainClass": "WordScrambleGame",
+            "projectName": "ProjectWtf_81ed6028"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "WordScrambledGame",
+            "request": "launch",
+            "mainClass": "WordScrambledGame",
+            "projectName": "ProjectWtf_81ed6028"
+        }
+    ]
+}
