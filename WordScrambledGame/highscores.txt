@@ -1,0 +1,5 @@
+Gab:50
+gab:40
+sha:30
+gab:20
+Gab:20
